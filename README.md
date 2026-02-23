@@ -1,1 +1,1 @@
-# Tayar_Grad_Project
+# Ecowatt_Grad_Project
