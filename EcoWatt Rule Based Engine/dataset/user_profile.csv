@@ -1,0 +1,48 @@
+user_id,household_id,bill_id,region,housing_type,number_of_residents,cooking_fuel,ac_type,has_insulation,month,year,season,total_kwh,total_cost_sar,avg_temp
+300,3000,20000,Riyadh,Villa,10.0,Gas,Split,True,3,2026,Rest_of_Year,11628.0,2827.0,31.9
+300,3000,20001,Riyadh,Villa,10.0,Gas,Split,True,2,2026,Winter,8761.0,2560.0,17.6
+301,3010,20002,Riyadh,Villa,9.0,Gas,Split,True,3,2026,Rest_of_Year,,1600.0,31.9
+302,3020,20003,Riyadh,Villa,8.0,Gas,Split,True,4,2026,Rest_of_Year,,881.0,31.9
+302,3020,20004,Riyadh,Villa,8.0,Gas,Split,True,3,2026,Rest_of_Year,,881.0,31.9
+303,3030,20005,Riyadh,Villa,6.0,Electric,Split,False,3,2026,Rest_of_Year,1766.0,383.51,31.9
+303,3030,20006,Riyadh,Villa,6.0,Electric,Split,False,2,2026,Winter,1858.0,401.75,17.6
+304,3040,20007,Aseer,Villa,7.0,Gas,Split,True,3,2026,Rest_of_Year,1500.0,1100.0,19.4
+305,3050,20008,Riyadh,Villa,6.0,Gas,Split,False,3,2026,Rest_of_Year,659.0,155.0,31.9
+306,3060,20009,Riyadh,Villa,6.0,Gas,Split,True,3,2026,Rest_of_Year,1857.0,401.0,31.9
+306,3060,20010,Riyadh,Villa,6.0,Gas,Split,True,2,2026,Winter,1560.0,340.0,17.6
+306,3060,20011,Riyadh,Villa,6.0,Gas,Split,True,1,2026,Winter,1625.0,353.0,17.6
+306,3060,20012,Riyadh,Villa,6.0,Gas,Split,True,12,2025,Winter,1553.0,359.0,17.6
+306,3060,20013,Riyadh,Villa,6.0,Gas,Split,True,11,2025,Rest_of_Year,1397.0,306.0,31.9
+308,3080,20014,Qassim,Villa,6.0,Gas,Split,True,4,2026,Rest_of_Year,894.0,300.0,31.1
+308,3080,20015,Qassim,Villa,6.0,Gas,Split,True,3,2026,Rest_of_Year,900.0,250.0,31.1
+308,3080,20016,Qassim,Villa,6.0,Gas,Split,True,2,2026,Winter,950.0,280.0,16.2
+308,3080,20017,Qassim,Villa,6.0,Gas,Split,True,1,2026,Winter,985.0,290.0,16.2
+309,3090,20018,Riyadh,Villa,8.0,Gas,Split,True,4,2026,Rest_of_Year,2543.0,543.84,31.9
+309,3090,20019,Riyadh,Villa,8.0,Gas,Split,True,2,2026,Winter,1430.0,280.0,17.6
+309,3090,20020,Riyadh,Villa,8.0,Gas,Split,True,12,2025,Winter,3004.0,734.56,17.6
+309,3090,20021,Riyadh,Villa,8.0,Gas,Split,True,10,2025,Rest_of_Year,2316.0,550.0,31.9
+309,3090,20022,Riyadh,Villa,8.0,Gas,Split,True,8,2025,Rest_of_Year,3210.0,689.0,31.9
+309,3090,20023,Riyadh,Villa,8.0,Gas,Split,True,6,2025,Rest_of_Year,2357.0,582.0,31.9
+310,3100,20024,Riyadh,Villa,9.0,Gas,Central,True,4,2026,Rest_of_Year,2870.0,618.0,31.9
+310,3100,20025,Riyadh,Villa,9.0,Gas,Central,True,3,2026,Rest_of_Year,2768.0,597.0,31.9
+310,3100,20026,Riyadh,Villa,9.0,Gas,Central,True,2,2026,Winter,1825.0,402.0,17.6
+310,3100,20027,Riyadh,Villa,9.0,Gas,Central,True,1,2026,Winter,1374.0,308.0,17.6
+310,3100,20028,Riyadh,Villa,9.0,Gas,Central,True,12,2025,Winter,1480.0,330.0,17.6
+310,3100,20029,Riyadh,Villa,9.0,Gas,Central,True,11,2025,Rest_of_Year,1516.0,337.0,31.9
+311,3110,20030,Riyadh,Floor in Villa,4.0,Gas,Central,True,4,2026,Rest_of_Year,1927.0,410.0,31.9
+311,3110,20031,Riyadh,Floor in Villa,4.0,Gas,Central,True,3,2026,Rest_of_Year,1685.0,360.0,31.9
+311,3110,20032,Riyadh,Floor in Villa,4.0,Gas,Central,True,2,2026,Winter,1367.0,294.0,17.6
+311,3110,20033,Riyadh,Floor in Villa,4.0,Gas,Central,True,1,2026,Winter,1257.0,271.0,17.6
+311,3110,20034,Riyadh,Floor in Villa,4.0,Gas,Central,True,12,2025,Winter,1506.0,323.0,17.6
+311,3110,20035,Riyadh,Floor in Villa,4.0,Gas,Central,True,11,2025,Rest_of_Year,1605.0,343.0,31.9
+312,3120,20036,Riyadh,Floor in Villa,4.0,Gas,Central,True,10,2025,Rest_of_Year,2077.0,441.0,31.9
+312,3120,20037,Riyadh,Floor in Villa,4.0,Gas,Central,True,9,2025,Rest_of_Year,3264.0,687.0,31.9
+312,3120,20038,Riyadh,Floor in Villa,4.0,Gas,Central,True,8,2025,Rest_of_Year,2788.0,1176.0,31.9
+312,3120,20039,Riyadh,Floor in Villa,4.0,Gas,Central,True,7,2025,Rest_of_Year,2781.0,587.0,31.9
+312,3120,20040,Riyadh,Floor in Villa,4.0,Gas,Central,True,6,2025,Rest_of_Year,3201.0,674.0,31.9
+313,3130,20041,Riyadh,Villa,9.0,Gas,Central,True,10,2025,Rest_of_Year,2453.0,532.0,31.9
+313,3130,20042,Riyadh,Villa,9.0,Gas,Central,True,9,2025,Rest_of_Year,4777.0,1012.0,31.9
+313,3130,20043,Riyadh,Villa,9.0,Gas,Central,True,8,2025,Rest_of_Year,5266.0,1114.0,31.9
+313,3130,20044,Riyadh,Villa,9.0,Gas,Central,True,7,2025,Rest_of_Year,4750.0,1007.0,31.9
+313,3130,20045,Riyadh,Villa,9.0,Gas,Central,True,6,2025,Rest_of_Year,4605.0,977.0,31.9
+313,3130,20046,Riyadh,Villa,9.0,Gas,Central,True,5,2025,Rest_of_Year,4308.0,926.0,31.9
