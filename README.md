@@ -1,17 +1,12 @@
-# flutter_application_1
+# EcoWatt
+**Intelligent Assistance for Sustainable Household Electricity Consumption**
 
-A new Flutter project.
+## Overview
+EcoWatt is a smart mobile application developed as a graduation project to help households across **Saudi Arabia** optimize their electricity usage. By analyzing monthly electricity bills and comparing them against regional behavioral baselines, the app empowers users to make sustainable energy choices. 
 
-## Getting Started
+## UI/UX Design & Prototype
+You can explore the user interface and user experience flow of EcoWatt through our interactive Figma prototype:
+**[Link to Figma Prototype](https://www.figma.com/make/2IxOfrimLOj24uJjhifI50/EcowattPrototype?p=f&t=f4y9TmiYyc4G4AdN-0&fullscreen=1)**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Geographic Scope
+The data modeling and features of EcoWatt are designed to serve households across the **Kingdom of Saudi Arabia**, utilizing national statistics to provide accurate regional insights.
