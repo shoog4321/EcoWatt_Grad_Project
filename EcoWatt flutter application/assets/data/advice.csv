@@ -1,0 +1,62 @@
+type,title,advice
+cooling,Advice for Reducing Air Conditioning Consumption,Set your AC to 24°C and keep it there for maximum savings.
+cooling,Advice for Reducing Air Conditioning Consumption,Set your thermostat 1°C lower for better savings.
+cooling,Advice for Reducing Air Conditioning Consumption,Keep your heating in used rooms only; turn off heaters in unused spaces.
+cooling,Advice for Reducing Air Conditioning Consumption,Clean and replace air conditioner filters monthly or when dirty.
+cooling,Advice for Reducing Air Conditioning Consumption,Turn off ceiling fans when leaving a room.
+cooling,Advice for Reducing Air Conditioning Consumption,Put on warmer clothes indoors to save energy.
+cooling,Advice for Reducing Air Conditioning Consumption,Set your fan's thermostat to Auto, not Continuous.
+cooling,Advice for Reducing Air Conditioning Consumption,Close curtains and blinds during the day to keep rooms cooler.
+cooling,Advice for Reducing Air Conditioning Consumption,Check your AC size; install a correctly sized unit for best efficiency.
+
+lighting,Advice for Reducing Lighting Consumption,Replace old bulbs with LEDs and turn off lights when not needed.
+lighting,Advice for Reducing Lighting Consumption,Check labels for A rating when buying bulbs.
+lighting,Advice for Reducing Lighting Consumption,Turn off lights in empty rooms.
+lighting,Advice for Reducing Lighting Consumption,Replace old bulbs with efficient energy-saving fixtures.
+lighting,Advice for Reducing Lighting Consumption,Use timers or photocells to turn off lights automatically.
+lighting,Advice for Reducing Lighting Consumption,Use dimmers to lower lights and save energy.
+lighting,Advice for Reducing Lighting Consumption,Open curtains during the day to let in natural light.
+lighting,Advice for Reducing Lighting Consumption,Use LED bulbs for desk tasks.
+lighting,Advice for Reducing Lighting Consumption,Replace outdoor lights with sensor-based LEDs.
+lighting,Advice for Reducing Lighting Consumption,Use ENERGY STAR lights for up to 75% savings.
+
+electronics,Advice for Reducing Electronics Energy Consumption,Turn off computers and electronics when not in use.
+electronics,Advice for Reducing Electronics Energy Consumption,Set your computer to sleep after 15 minutes of inactivity.
+electronics,Advice for Reducing Electronics Energy Consumption,Use smart power strips to reduce standby power.
+electronics,Advice for Reducing Electronics Energy Consumption,Unplug chargers when not in use.
+electronics,Advice for Reducing Electronics Energy Consumption,Plug unused electronics into power strips to switch off easily.
+
+behavior,Advice for Improving Energy-Saving Habits,Turn off lights in rooms you leave empty.
+behavior,Advice for Improving Energy-Saving Habits,Set thermostat to a comfortable temperature and wear warmer clothes indoors.
+behavior,Advice for Improving Energy-Saving Habits,Keep heating in used rooms only.
+behavior,Advice for Improving Energy-Saving Habits,Walk or cycle for short trips instead of driving.
+behavior,Advice for Improving Energy-Saving Habits,Take showers instead of baths to save energy.
+
+insulation,Advice for Improving Home Insulation Efficiency,Wrap your hot water tank and pipes with insulation.
+insulation,Advice for Improving Home Insulation Efficiency,Close fireplace openings when not in use.
+insulation,Advice for Improving Home Insulation Efficiency,Install tight curtains to keep rooms warmer.
+insulation,Advice for Improving Home Insulation Efficiency,Install window films to reduce heat loss.
+
+refrigeration,Advice for Reducing Refrigeration Energy Consumption,Set fridge to 3–5°C and freezer to -18°C.
+refrigeration,Advice for Reducing Refrigeration Energy Consumption,Check fridge seals to prevent air leaks.
+refrigeration,Advice for Reducing Refrigeration Energy Consumption,Store food tightly sealed to reduce moisture.
+refrigeration,Advice for Reducing Refrigeration Energy Consumption,Keep fridge away from heat sources.
+refrigeration,Advice for Reducing Refrigeration Energy Consumption,Clean coils regularly for efficiency.
+
+water heating,Advice for Reducing Water Heating Energy Consumption,Set water heater to 50°C for savings.
+water heating,Advice for Reducing Water Heating Energy Consumption,Set water heater to 120°F for safe efficiency.
+water heating,Advice for Reducing Water Heating Energy Consumption,Install heat traps on pipes.
+water heating,Advice for Reducing Water Heating Energy Consumption,Drain water heater monthly.
+water heating,Advice for Reducing Water Heating Energy Consumption,Turn cold water on fully for shorter showers.
+
+laundry,Advice for Reducing Laundry Energy Consumption,Wash clothes in warm or cold water.
+laundry,Advice for Reducing Laundry Energy Consumption,Dry clothes outdoors instead of using dryer.
+laundry,Advice for Reducing Laundry Energy Consumption,Clean lint filters after each load.
+laundry,Advice for Reducing Laundry Energy Consumption,Separate heavy and light clothes when drying.
+laundry,Advice for Reducing Laundry Energy Consumption,Use drying racks when possible.
+
+cooking,Advice for Reducing Cooking Energy Consumption,Use small appliances for small meals.
+cooking,Advice for Reducing Cooking Energy Consumption,Match pan size to heating element.
+cooking,Advice for Reducing Cooking Energy Consumption,Cover pots to speed up cooking.
+cooking,Advice for Reducing Cooking Energy Consumption,Ensure blue flames in gas appliances.
+cooking,Advice for Reducing Cooking Energy Consumption,Clean burners regularly for better efficiency.
